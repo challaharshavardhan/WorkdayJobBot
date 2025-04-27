@@ -1,23 +1,27 @@
 # WorkdayJobBot
-It is job application bot which autofills the workday multiple pages starting from login to answering your questions!
-Project Overview:
-This is a Task Tracker which uses gamification techniques to engage the users(i.e upgrade their characters as they progress), needs to submit proof of completion(image/small-video)to move to next day.
+It is a job application bot that autofills the workday multiple pages, starting from login to answering your questions!
 
-It is a Web Application project, where you can learn about MongoDb, Express, React, Node, AWS-S3 buckets, Firebase Authentication, RESTful API's, POSTMAN(If you're using it for API endpoint testing)
+# Project Overview:
 
-NOTE:
-I didn't completely test it for 181 days myself
+This is a Job Application Bot that was specifically designed for workday jobs. It auto detects the login page, my_information page, my_experience_page, and my_questionnaire_page, and enters the details of what you have submitted from the profile.json file. It was designed using Playwright and Node, and some JS. 
 
-I need to change the task logic, when the person reaches 181 days, task should be deleted automatically, allowing the user for creating new tasks(person updating the logic can send a delete request to the backend at api/tasks/delete)
+## NOTE:
 
-May be should have worked on with animations
+We need to redesign for different pages(cuz Workday has different kinds of pages for different jobs and different DOM structures and uses dynamically created IDs, so it will be difficult but possible!), or if possible change the logic entirely.
 
-Conclusion:
+## Conclusion:
+
 Project is open for changes.
 
-Author:
-Harsha Vardhan Challa
+## Author:
+1) Harsha Vardhan Challa
 
 @challaharsha680@gmail.com
 
 @https://www.linkedin.com/in/harsha-vardhan-challa-5034b21b6/
+
+2) Sriniha Mourila
+
+@sriniharao@gmail.com
+
+@https://www.linkedin.com/in/sriniha-mourila
