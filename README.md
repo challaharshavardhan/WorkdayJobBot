@@ -7,21 +7,21 @@ This is a Job Application Bot that was specifically designed for workday jobs. I
 
 ## NOTE:
 
-We need to redesign for different pages(cuz Workday has different kinds of pages for different jobs and different DOM structures and uses dynamically created IDs, so it will be difficult but possible!), or if possible change the logic entirely.
+We need to redesign for different pages(cuz Workday has different kinds of pages for different jobs and different DOM structures and uses dynamically created IDs, so it will be difficult but possible!), or if possible change the logic entirely. Any help would be appreciated!
 
 ## Conclusion:
 
-Project is open for changes.
+The project is open for changes.
 
-## Author:
+## Authors:
 1) Harsha Vardhan Challa
 
-@challaharsha680@gmail.com
+   @challaharsha680@gmail.com
 
-@https://www.linkedin.com/in/harsha-vardhan-challa-5034b21b6/
+   @https://www.linkedin.com/in/harsha-vardhan-challa-5034b21b6/
 
 2) Sriniha Mourila
 
-@sriniharao@gmail.com
+   @sriniharao@gmail.com
 
-@https://www.linkedin.com/in/sriniha-mourila
+   @https://www.linkedin.com/in/sriniha-mourila
