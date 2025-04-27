@@ -1,0 +1,51 @@
+{
+    "name--legalName--firstName": "Harsha Vardhan",
+    "name--legalName--middleName":"",
+    "name--legalName--lastName":"Challa",
+    "email": "challaharsha680@gmail.com",
+    "password": "MYPASSWORD",
+    "Phone Number": "4709234458",
+    "addressLine1": "2450 CAMELLIA LN NE",
+    "addressLine2": "Apt 1200",
+    "city": "Atlanta",
+    "countryRegion":"Georgia",
+    "postalCode":"30324",
+    "phoneType":"Mobile",
+    "CountryPhoneCode":"United States Of America (+1)",
+    "resumePath": "C:\\Users\\chall\\OneDrive\\Desktop\\swe resume\\resume_harsha_vardhan_challa-SWE_JAVA.pdf",
+    "linkedin": "https://www.linkedin.com/in/harsha-vardhan-challa-5034b21b6/",
+    "github": "https://github.com/challaharshavardhan",
+    "leetcode":"https://leetcode.com/u/Shadowies/",
+    "experience": [
+      {
+        "jobTitle": "Research Software Engineer",
+        "companyName": "Georgia State University",
+        "location": "Atlanta",
+        "startDate": "08/2023",
+        "endDate": "12/2024",
+        "description": ["1) Engineered a Generative AI system using LLaMA 2 for automated ticket categorization, streamlining ticket management through prioritization and ETA prediction, boosting issue resolution speed by 35% with a prompt engineering framework.",
+        "2) Architected a scalable and efficient backend for a HealthCare Mobile App using Express.js and Firebase Functions, enhancing data flow with RESTful APIs and optimizing data retrieval and storage via a refined MongoDB schema.",
+        "3) Developed an interactive frontend with React.js and Expo, enhancing user experience through real-time notifications.",
+        "4) Implemented a robust multi-tier architecture for MCQ generation by integrating React, FastAPI and PostgreSQL, ensuring seamless interaction of T5 Transformer and Google BERT to automate question generation, reducing manual work by 60%.",
+        "5) Deployed the application using Docker for containerization and Kubernetes for orchestration, while automating CI/CD pipelines using Ansible and GitHub Actions, ensuring seamless build, testing, and deployment with high availability." ,
+        "6) Developed a cloud-based web application using React JS for the frontend, MongoDB for data storage, and AWS S3 buckets.",
+        "7) Built a full-stack app for a Restaurant Website using HTML, CSS, JavaScript, MySQL for the back-end, and PHP for serverdatabase communication, while applying agile principles, and deployed it on an XAMPP server for managing online orders."
+    ]},
+      {
+        "jobTitle": "Software Engineer Intern",
+        "companyName": "Cognizant",
+        "location": "WFH",
+        "startDate": "11/2022",
+        "endDate": "02/2023",
+        "description": ["1) Leveraged the React-based front-end of the Railway Management System using AWS Amplify, enabling streamlined continuous delivery, simplified deployment processes, and ensuring seamless integration with the backend services.",
+        "2) Designed a serverless backend using AWS Lambda to handle real-time processing of train schedules and reservations.",
+        "3) Employed Amazon DynamoDB for high-performance, scalable NoSQL data storage, ensuring quick retrieval of train data.",
+        "4) Integrated Amazon Cognito for secure user authentication and access management, enabling admin login and user account management with built-in features like multi-factor authentication (MFA) and social login options for security.",
+        "5) Utilized AWS Amplify to deploy and host the React-based front-end of the Railway Management System for seamless integration and continuous delivery, simplified hosting setup, and seamless integration with the backend system." ,
+        "6) Orchestrated Selenium WebDriver on AWS EC2 instances to automate functional and UI testing of critical user flows, including ticket reservations, train schedule viewing, and system navigation under various conditions and browsers.",
+        "7) Configured Selenium Grid on EC2 for parallel execution of tests across different browsers, ensuring high test coverage."
+        ]
+        }
+      ]
+}
+  
